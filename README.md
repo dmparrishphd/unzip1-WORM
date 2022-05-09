@@ -1,2 +1,1 @@
-# unzip1-WORM
-Extract one file from a zip file
+[README](https://github.com/dmparrishphd/unzip1-CORW#readme).
